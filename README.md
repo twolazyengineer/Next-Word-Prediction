@@ -115,7 +115,3 @@ Feel free to get in touch if you have any questions or suggestions! You can reac
 - **GitHub:** [https://github.com/twolazyengineer]
 
 Thank you for checking out the Next-Word-Prediction project!
-
----
-
-Replace the placeholder links and contact information with your actual details. This README provides a clear and structured overview of your project, instructions for installation and usage, and information on how others can contribute.
